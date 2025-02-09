@@ -46,6 +46,7 @@
 ⌨️ Статистика GitHub:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichailFedyaev" alt=""/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichailFedyaev&theme=default&hide_border=false" alt=""/>
 </div>
 
