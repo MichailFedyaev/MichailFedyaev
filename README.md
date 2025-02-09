@@ -5,9 +5,7 @@
 
   <a href= "https://e.mail.ru/inbox/?back=1">
     <img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="VK Badge"/>
-  <a
-    <href="https://img.shields.io/codefactor/grade/github/MichailFedyaev/https%3A%2F%2Fgithub.com%2FMichailFedyaev">
-  </a>
+    <img src = "https://img.shields.io/codefactor/grade/github/MichailFedyaev/https%3A%2F%2Fgithub.com%2FMichailFedyaev" alt=""/>
 </div>
 
 <div id ="viewprof" align="center">
