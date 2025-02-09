@@ -13,7 +13,7 @@
 </div>
 
 <div id="haythere" align="center">
-  <h2> Профиль на GITHUB </h2>
+  <h2> ⚜️Добро пожаловать⚜️ :shipit:</h2>
 </div>
 
 ### :cowboy_hat_face: Обо мне:
@@ -37,19 +37,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50" height="50"/>
 </div>
 
-🏆 Достижения:
+### 🏆 Достижения:
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=MichailFedyaev" alt=""/>
 </div>
 
 
-⌨️ Статистика GitHub:
+### ⌨️ Статистика GitHub:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichailFedyaev" alt=""/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichailFedyaev&theme=default&hide_border=false" alt=""/>
 </div>
 
-📊 Статистика активности :
+### 📊 Статистика активности :
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichailFedyaev&theme=react-dark" alt=""/>
 </div>
