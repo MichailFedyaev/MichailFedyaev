@@ -50,5 +50,5 @@
 
 📊 Статистика активности :
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShizoFRenlK&theme=tokyo-night" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichailFedyaev&theme=github-compact" alt=""/>
 </div>
