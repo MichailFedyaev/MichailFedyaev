@@ -13,7 +13,7 @@
 </div>
 
 <div id="haythere" align="center">
-  <h2> ⚜️Добро пожаловать :shipit: ⚜️ :shipit:</h2>
+  <h2> ⚜️Добро пожаловать⚜️</h2>
 </div>
 
 ### :cowboy_hat_face: Обо мне:
