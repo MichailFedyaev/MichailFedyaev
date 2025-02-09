@@ -39,7 +39,7 @@
 
 🏆 Достижения:
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=ShizoFRenlK" alt=""/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MichailFedyaev" alt=""/>
 </div>
 
 
