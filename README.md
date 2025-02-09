@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-plain.svg" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50" height="50"/>
 </div>
