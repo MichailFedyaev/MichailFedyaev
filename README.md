@@ -43,9 +43,10 @@
 </div>
 
 
-⌨️ Наиболее используемые языки:
+⌨️ Статистика GitHub:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichailFedyaev" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichailFedyaev&theme=dark&hide_border=false" alt=""/>
 </div>
 
 📊 Статистика активности :
